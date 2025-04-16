@@ -1,3 +1,5 @@
+Install the dependencies and libraries then run the code. Make sure to have the input file in the same code directory.
+
 ```bash 
 pip install PyPDF2 PyMuPDF python-docx Pillow unicodeconverter
 ```
