@@ -6,5 +6,5 @@ pip install PyPDF2 PyMuPDF python-docx Pillow unicodeconverter
 
 1. Conversion is fast.
 2. Accuracy need to improve.
-3. Allignment is better than other trails.
+3. Allignment is better than other trials.
 
