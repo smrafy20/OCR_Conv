@@ -36,4 +36,4 @@ def pdf_to_word(pdf_path):
     print(f"✅ Conversion complete! The Word document is saved at: {word_path}")
 
 # Example usage
-pdf_to_word("bmcq.pdf")
+pdf_to_word("sample.pdf")
