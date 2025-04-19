@@ -8,3 +8,6 @@ pip install PyPDF2 PyMuPDF python-docx Pillow unicodeconverter
 2. Accuracy need to improve.
 3. Allignment is better than other trials.
 
+
+output Demo:
+![alt text](image-1.png)
